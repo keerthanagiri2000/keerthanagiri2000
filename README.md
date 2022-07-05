@@ -22,8 +22,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-  &nbsp;
 <a href="mailto:keerthanagiri2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keerthanagiri2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/keerthanas_id/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-keerthanas_id-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [keerthana](https://github.com/keerthanagiri2000)
