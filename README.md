@@ -21,7 +21,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p marginLeft="20px">
+<p>
+  &nbsp;
 <a href="mailto:keerthanagiri2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keerthanagiri2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
