@@ -1,5 +1,7 @@
 <h2> Hey there! I'm keerthana.</h2>
 
+![snake gif](https://github.com/keerthanagiri2000/keerthanagiri2000/blob/output/github-contribution-grid-snake.gif)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -  &nbsp; I'm currently learning Full stack development.
@@ -29,3 +31,4 @@
 </p>
 
 ⭐️ From [keerthana](https://github.com/keerthanagiri2000)
+
