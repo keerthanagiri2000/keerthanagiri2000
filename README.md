@@ -3,6 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -  &nbsp; I'm currently learning Full stack development.
+-  &nbsp; I'm currently searching for a job opportunity in web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
