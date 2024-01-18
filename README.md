@@ -4,9 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--  &nbsp; I'm currently learning Full stack development.
--  &nbsp; Currently working on some of my cool side projects based on Web Development.
--  &nbsp; I'm currently looking for a job opportunity in web development.
+-  &nbsp; I am a full-stack developer with expertise in various programming languages, primarily JavaScript with a focus on Node.js for backend development. In the backend realm, I specialize in utilizing Node.js and Express.js, ensuring robust and efficient server-side applications. My proficiency extends to database management, encompassing both MongoDB and MySQL. I excel in API development, with a strong foundation in designing RESTful APIs and implementing seamless CRUD operations. On the front-end, I am adept at employing HTML5 and CSS3, incorporating responsive design principles to create user-friendly interfaces. Additionally, I leverage version control systems like Git and GitHub to maintain code integrity and facilitate collaborative development processes.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
